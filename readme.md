@@ -2,6 +2,8 @@
 
 This is a simple tool built with React and Chakra UI that uses the Open AI [chat completion API](https://platform.openai.com/docs/guides/completion) to extract the best keywords from any given text.
 
+## Live Demo: https://ai-keyword-extractor-av.vercel.app
+
 <div style="text-align:center">
 <img src="./src/assets/screenshot.png" width="500">
 </div>
