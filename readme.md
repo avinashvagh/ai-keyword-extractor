@@ -8,6 +8,16 @@ This is a simple tool built with React and Chakra UI that uses the Open AI [chat
 <img src="./src/assets/screenshot.png" width="500">
 </div>
 
+## Technology Stack
+- Frontend: React, Vite, Chakra-UI, Open AI API
+
+## Features
+- Intuitive User Interface: Enjoy a user-friendly experience while extracting keywords from any text.
+- AI-Powered Extraction: Harness the power of OpenAI for high-quality keyword extraction.
+- Seamless Setup: Easily set up and configure the tool with minimal steps.
+- Customizable Settings: Personalize environment variables using the provided .env file.
+
+
 ## How to use
 
 Install dependencies:
